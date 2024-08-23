@@ -1,0 +1,5 @@
+Razer Blade,Razer,i7 7th Gen,GTX 3060,2000,250
+XPS 15,Dell,i5 9th Gen,GTX 3070,1976,94
+Alienware m15,Alienware,i5 9th Gen,GTX 3070,1978,100
+Swift 7,Acer,i5 9th Gen,GTX 3070,900,121
+Macbook Pro 16,Apple,M2 Pro chip,GTX 3070,3500,689
